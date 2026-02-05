@@ -1,0 +1,5 @@
+/out/*
+src/*
+!src/example.txt
+!src/example.msg
+
