@@ -9,3 +9,11 @@ The script reads a file <file>.txt and a associated optional file with one line
 <file>.msg. If existing  the file <file>.msg includes the author name, which 
 will be appended to each fortune cookie. The generated cookit files are in the 
 out directory. 
+
+## Licence
+
+GNU General Public License v2.0
+
+See LICENSE file
+
+
